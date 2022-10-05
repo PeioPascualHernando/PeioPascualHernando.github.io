@@ -1,0 +1,242 @@
+{
+    "Localidad": {
+        "Abadiño": [
+            "EUSKOIL-STAR PETROLEUM",
+            "EROSKI"
+        ],
+        "Abanto y Ciérvana-Abanto Zierbena": [
+            "PETRONOR",
+            "PETRONOR",
+            "REPSOL",
+            "E.S.EL CAMPILLO"
+        ],
+        "Alonsotegi": [
+            "PETRONOR"
+        ],
+        "Amorebieta-Etxano": [
+            "PETRONOR",
+            "PETRONOR",
+            "REPSOL",
+            "REPSOL",
+            "REPSOL"
+        ],
+        "Arrigorriaga": [
+            "PETRONOR",
+            "AVIA AJARTE"
+        ],
+        "Artea": [
+            "ARTEA OIL , S.A."
+        ],
+        "Bakio": [
+            "AVIA"
+        ],
+        "Balmaseda": [
+            "REPSOL"
+        ],
+        "Barakaldo": [
+            "REPSOL",
+            "REPSOL",
+            "EROSKI",
+            "GALP"
+        ],
+        "Basauri": [
+            "CEPSA",
+            "EROSKI",
+            "PETRONOR",
+            "URBI LOW COST",
+            "EUSKADILOWCOST"
+        ],
+        "Berango": [
+            "REPSOL"
+        ],
+        "Bermeo": [
+            "PETRONOR"
+        ],
+        "Berriz": [
+            "CEPSA",
+            "CEPSA",
+            "EUSKADILOWCOST"
+        ],
+        "Bilbao": [
+            "BP BILBAO - STO DOMINGO MD",
+            "REPSOL",
+            "BP BILBAO - STO DOMINGO MI",
+            "CEPSA",
+            "CEPSA",
+            "REPSOL",
+            "REPSOL",
+            "PETRONOR"
+        ],
+        "Derio": [
+            "PETRONOR",
+            "AVIA  USOA"
+        ],
+        "Durango": [
+            "ALCAMPO"
+        ],
+        "Elorrio": [
+            "CEPSA",
+            "EROSKI"
+        ],
+        "Erandio": [
+            "PETRONOR",
+            "PETRONOR",
+            "SHELL",
+            "REPSOL",
+            "PETRONOR"
+        ],
+        "Etxebarri, Anteiglesia de San Esteban-Etxebarri Doneztebeko ": [
+            "REPSOL",
+            "REPSOL"
+        ],
+        "Galdakao": [
+            "REPSOL",
+            "AVIA",
+            "EASYGAS",
+            "REPSOL",
+            "PETRONOR"
+        ],
+        "Gernika-Lumo": [
+            "REPSOL",
+            "CEPSA",
+            "AVIA"
+        ],
+        "Getxo": [
+            "REPSOL",
+            "REPSOL",
+            "CEPSA"
+        ],
+        "Gordexola": [
+            "EUSKADILOWCOST"
+        ],
+        "Gorliz": [
+            "EROSKI"
+        ],
+        "Güeñes": [
+            "PETRONOR"
+        ],
+        "Igorre": [
+            "AVIA"
+        ],
+        "Iurreta": [
+            "REPSOL",
+            "SHELL",
+            "SHELL",
+            "ARRIBIDE"
+        ],
+        "Izurtza": [
+            "AVIA"
+        ],
+        "Larrabetzu": [
+            "BIDEKO"
+        ],
+        "Leioa": [
+            "REPSOL",
+            "REPSOL",
+            "EROSKI",
+            "EROSKI"
+        ],
+        "Lekeitio": [
+            "EPERMENDI"
+        ],
+        "Lemoa": [
+            "EUSKADILOWCOST"
+        ],
+        "Loiu": [
+            "PETRONOR"
+        ],
+        "Mallabia": [
+            "AVIA"
+        ],
+        "Markina-Xemein": [
+            "PETRONOR",
+            "PETRONOR"
+        ],
+        "Mundaka": [
+            "REPSOL"
+        ],
+        "Mungia": [
+            "GAMIZ",
+            "ALCAMPO",
+            "NAFTE",
+            "EASYGAS",
+            "PETRONOR",
+            "REPSOL"
+        ],
+        "Muxika": [
+            "EASYGAS",
+            "EASYGAS"
+        ],
+        "Orozko": [
+            "BP BENGOECHEA"
+        ],
+        "Ortuella": [
+            "EUSKADILOWCOST",
+            "GASOLINERA ORTUELLA"
+        ],
+        "Otxandio": [
+            "AVIA"
+        ],
+        "Plentzia": [
+            "REPSOL"
+        ],
+        "Portugalete": [
+            "CEPSA",
+            "EROSKI"
+        ],
+        "Santurtzi": [
+            "CEPSA",
+            "REPSOL",
+            "BALLENOIL"
+        ],
+        "Sestao": [
+            "REPSOL",
+            "REPSOL",
+            "PETRONOR",
+            "CARREFOUR",
+            "COSTCO"
+        ],
+        "Sopelana": [
+            "GALP",
+            "GALP"
+        ],
+        "Sopuerta": [
+            "REPSOL"
+        ],
+        "Ugao-Miraballes": [
+            "PETRONOR"
+        ],
+        "Urduliz": [
+            "PETRONOR",
+            "SHELL"
+        ],
+        "Urduña-Orduña": [
+            "PETROENCINA"
+        ],
+        "Valle de Trápaga-Trapagaran": [
+            "PETRONOR",
+            "CEPSA"
+        ],
+        "Zalla": [
+            "EROSKI",
+            "CEPSA"
+        ],
+        "Zamudio": [
+            "PETROPRIX",
+            "Z2OIL",
+            "GALP"
+        ],
+        "Zeanuri": [
+            "AUTO ESTACIÓN DE SERVICIO BARAZAR S.A.",
+            "OTZARRETA"
+        ],
+        "Zierbena": [
+            "PETRONOR",
+            "PETRONOR",
+            "REPSOL",
+            "E.S.EL CAMPILLO",
+            "AVIA",
+            "PORTUOIL"
+        ]
+    }
+}
